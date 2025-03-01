@@ -33,12 +33,12 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/krishnasai89/WeatherApplication.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd weather-app
+   cd weatherApplication
    ```
 
 3. Install the dependencies:
